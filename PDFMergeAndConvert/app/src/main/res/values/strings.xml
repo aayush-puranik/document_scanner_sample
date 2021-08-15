@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PDFMergeAndConvert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_here">Click Picture</string>
+    <string name="ok_label">OK</string>
+    <string name="error_label">Error</string>
+    <string name="photo_saved">Photo has been saved to Camera</string>
+    <string name="empty">Empty</string>
+    <string name="merge">merge</string>
+</resources>
